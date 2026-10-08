@@ -1,0 +1,11 @@
+{
+  "name": "qr-code-gerador-proprio",
+  "main": "worker.js",
+  "compatibility_date": "2026-10-01",
+  "kv_namespaces": [
+    {
+      "binding": "CONTADOR",
+      "id": "COLE_AQUI_O_ID_DO_KV"
+    }
+  ]
+}
